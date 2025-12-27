@@ -11,10 +11,15 @@ This activator is purpose-built for Microsoft Office software. It works by enabl
 While general activators exist, a tool focused solely on Office ensures perfect compatibility. It correctly modifies the specific licensing files and services for Office applications without interfering with your Windows operating system, resulting in a cleaner and more reliable outcome.
 
 ## Core Features & Capabilities
+
 🔹 **Comprehensive Application Support** – Activates the entire Office ecosystem, from core apps to niche tools like Publisher and Access.
+
 🔹 **Intelligent Version Detection** – Automatically identifies installed Office versions (32-bit or 64-bit) and applies the correct activation method.
+
 🔹 **Feature-Specific Unlocking** – Enables premium functions like advanced Excel data analysis (Power Pivot, Solver), premium Word templates and designer, and advanced PowerPoint transition effects.
+
 🔹 **Standalone Operation** – Works independently of your Windows activation status, focusing purely on Office products.
+
 🔹 **One-Click Simplicity** – A streamlined process that requires minimal technical knowledge from the user.
 
 ## Step-by-Step Activation Guide
